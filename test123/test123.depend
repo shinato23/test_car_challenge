@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650372134 source:c:\users\admin\desktop\test123\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+
